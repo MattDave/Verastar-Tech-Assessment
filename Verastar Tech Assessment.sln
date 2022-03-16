@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Verastar Tech Assessment", "Verastar Tech Assessment\Verastar Tech Assessment.csproj", "{D866341B-3BB2-4BD1-A61D-4E0AC5DA5EAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data Object Collection", "Data Object Collection\Data Object Collection.csproj", "{DC84E7D2-9DA5-4247-B829-FD5B3DA72B5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D866341B-3BB2-4BD1-A61D-4E0AC5DA5EAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D866341B-3BB2-4BD1-A61D-4E0AC5DA5EAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D866341B-3BB2-4BD1-A61D-4E0AC5DA5EAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D866341B-3BB2-4BD1-A61D-4E0AC5DA5EAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC84E7D2-9DA5-4247-B829-FD5B3DA72B5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC84E7D2-9DA5-4247-B829-FD5B3DA72B5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC84E7D2-9DA5-4247-B829-FD5B3DA72B5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC84E7D2-9DA5-4247-B829-FD5B3DA72B5C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E512D10-B46E-4498-9A3D-AEC0268B9B66}
+	EndGlobalSection
+EndGlobal
